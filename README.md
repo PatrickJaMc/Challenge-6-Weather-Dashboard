@@ -1,5 +1,7 @@
 # Weather Dashboard
 
+## About
+
 ```
 This is a simple weather retrieval app that allows the user to input a city, state, or country and get weather data for the current day as well as a projected 5 day forecast.
 
